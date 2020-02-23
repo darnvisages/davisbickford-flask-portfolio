@@ -35,7 +35,7 @@ profile = {
             'description2': "",
             'techList': 'python, flask, bootstrap, html, css, javascript'.split(', '),
             'website': 'http://www.davisbickford.com/',
-            'codeURL': ''
+            'codeURL': 'https://github.com/darnvisages/davisbickford-flask-portfolio'
          }
         # {
         #     'title': '',
